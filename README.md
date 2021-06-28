@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Berk Karaal
+- 🌱 I’m currently learning Python
+- 🌐 My website: [berkkaraal.com](https://berkkaraal.com)
+- 📝 Blog and projects: [berkkaraal.com/blog](https://berkkaraal.com/blog)
+- ✉️ Contact: <iletisim.berkkaraal@gmail.com>
